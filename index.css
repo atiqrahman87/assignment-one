@@ -43,3 +43,34 @@
     background-color:#E55473;
     color:white;
 }
+
+/*style for second section*/
+.second-section{
+    width:100%;
+}
+
+.second-div-container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin-top:178px;
+    margin-right:240px;
+    margin-left:240px;
+
+}
+.second-sec-image{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.second-sec-box{
+    display:flex;
+    justify-content:center;
+    align-items:center; 
+}
+
+#sectwo-img{
+width: 310px;
+height: 428px;
+
+}
