@@ -212,27 +212,40 @@ font-weight: 400;
     align-items:center;
     padding-bottom:121px;
 }
-
-.footer-container{
-    margin-top:128px;
-}
 #sec-five-para{
     padding-bottom:32px;
 }
 #email{
     width: 500px;
-    height:40px;
-    padding-right:16px;
+    height:30px;
+    margin-right:16px;
+    margin-left:300px;
     background-color:white;
 }
 .section-five-btn{
-    padding-right:287px;
-    width:20px;
-    height:40px;
+    margin-right:150px;
+    width:150px;
+    height:38px;
     border-radius: 8px;
     background: #E55473;
     color:white;
     font-size:20px;
     text-align:center;
+}
 
+.footer-container{
+    width:100%;
+    height:445px;
+    background-color:#111010;
+    text-align:center;
+}
+.footer-div-container{
+    padding-top:128px;
+    color:lightcyan;
+}
+.footer-para{
+font-size: 18px;
+font-weight:400px;
+padding-top:24px;
+padding-bottom:32px;
 }
