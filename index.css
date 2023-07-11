@@ -197,12 +197,12 @@ font-weight: 400;
 }
 
 .extra-section-container{
-    height:800px;
+    height:500px;
     margin-left:240px;
     margin-right:240px;
     background-color:lightsteelblue;
     margin-bottom:130px;
-    padding-top:150px;
+    padding-top:100px;
 }
 .extra-section-image{
     display:flex;
@@ -210,7 +210,18 @@ font-weight: 400;
     align-items:center;
 }
 
+.flower-name{
+    display:flex;
+    justify-content:space-evenly;
+    
+}
 
+.list{
+    display:flex;
+    justify-content:space-around;
+    list-style-type:none;
+    padding-top:60px;
+}
 
 /*style for the fifth section*/
 .section-five{
