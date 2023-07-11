@@ -167,7 +167,23 @@ background: #E55473;
     display:flex;
     flex-direction:column;
     align-items:center;
+    margin-top:128px;
+    margin-bottom:128px;
+
 }
 .fourth-sec-text{
-
+    text-align:center;
+}
+.fourth-sec-heading{
+color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800; 
+padding-bottom:24px; 
+}
+.fourth-sec-para{
+color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
 }
