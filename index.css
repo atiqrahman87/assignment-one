@@ -197,7 +197,7 @@ font-weight: 400;
 }
 
 .extra-section-container{
-    height:500px;
+    height:450px;
     margin-left:240px;
     margin-right:240px;
     background-color:lightsteelblue;
@@ -219,10 +219,22 @@ font-weight: 400;
 .list{
     display:flex;
     justify-content:space-around;
+    padding-top:30px;
+    padding-left:28px;
+    padding-right:28px;
+}
+.flower-list{
     list-style-type:none;
-    padding-top:60px;
 }
 
+.extra-button{
+padding: 10px 20px;
+align-items: flex-start;
+border-radius: 8px;
+background: #E55473;
+color:whitesmoke;
+margin-top:10px;
+}
 /*style for the fifth section*/
 .section-five{
     width:100%;    
