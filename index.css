@@ -189,6 +189,7 @@ text-align: center;
 font-size: 18px;
 font-weight: 400;
 }
+
 /*style for the fifth section*/
 .section-five{
     width:100%;    
@@ -201,14 +202,37 @@ font-weight: 400;
     border-radius: 8px;
     margin-left:240px;
     margin-right:240px;
-
+    padding-top:175px;
+    text-align:center;
 }
+
 .section-five-email{
     display:flex;
     justify-content:center;
     align-items:center;
+    padding-bottom:121px;
 }
+
 .footer-container{
     margin-top:128px;
+}
+#sec-five-para{
+    padding-bottom:32px;
+}
+#email{
+    width: 500px;
+    height:40px;
+    padding-right:16px;
+    background-color:white;
+}
+.section-five-btn{
+    padding-right:287px;
+    width:20px;
+    height:40px;
+    border-radius: 8px;
+    background: #E55473;
+    color:white;
+    font-size:20px;
+    text-align:center;
 
 }
