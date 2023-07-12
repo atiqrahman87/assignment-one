@@ -102,7 +102,7 @@ padding-bottom:10px;
 }
 
 .image-center-padding{
-    padding-right:24px;
+    padding-right:12px;
 }
 /*style for the second part of second section*/
 
@@ -170,7 +170,7 @@ background: #E55473;
     flex-direction:column;
     align-items:center;
     margin-top:128px;
-    margin-bottom:128px;
+    margin-bottom:110px;
 
 }
 .fourth-sec-text{
